@@ -6,7 +6,7 @@ description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: pinguins.jpg
+  image: prof_pic.jpg
   address: >
     <p>CEREGE</p>
     <p>Technopôle de l'Arbois-Méditerranée</p>
