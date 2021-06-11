@@ -1,17 +1,15 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Palais de la Découverte
+description: Public outreach at Paris Museum
 img: /assets/img/1.jpg
-importance: 3
-category: fun
+importance: 1
+category: Outreach
 ---
+## Description
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Related publications 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
     ---
     layout: page
