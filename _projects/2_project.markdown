@@ -4,7 +4,7 @@ title: Asian monsoons
 description: Indentifying key paleogeographic controls 
 img: /assets/img/indiaGhats.png
 importance: 1
-category: work
+category: Research
 ---
 ## Description
 
