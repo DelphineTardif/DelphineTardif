@@ -2,7 +2,7 @@
 layout: page
 title: Asian monsoons
 description: Indentifying key paleogeographic controls 
-img: /assets/img/indiaGhats.jpg
+img: /assets/img/indiaGhats.png
 importance: 1
 category: work
 ---
@@ -12,7 +12,7 @@ category: work
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/mosooncharts.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/monsooncharts.jpg' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -21,7 +21,7 @@ category: work
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/indianDrawings.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/indianDrawings.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
@@ -30,7 +30,7 @@ category: work
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/tradeTavernier.jpg' | relative_url }}" alt="" title="example image"/>
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/tradeTavernier.png' | relative_url }}" alt="" title="example image"/>
     </div>
 </div>
 <div class="caption">
