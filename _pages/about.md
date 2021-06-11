@@ -17,7 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My primary focus is Cenozoic paleoclimate modelling using the IPSL-CM5A2 model. During my PhD at IPGP (Paris, France) I studied specifically the possibility of an early onset of the Asian monsoons in the late Eocene Greenhouse climate. As a postdoc in CEREGE (Aix-en-Provence, France) I have now broaden my scope to the whole Cenozoic, and to other regions of the world. I am particularly interested in the impact of global to regional climate on continental faunas and floras and its role in biogeography patterns.
+
+This work beneficiates from the collaboration and expertise of many involved paleoclimate scientists. For more information and possible work vacancies in the French paleoclimate modelling comunity, take a look at our [CEREGE Deep Time Climate Modeling Group website](https://cerege-cl.github.io/){:target="\_blank"}.
+
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
